@@ -1,0 +1,17 @@
+.loading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+  background-color: #444;
+  gap: 0.7rem;
+  h1 {
+    color: #fec135;
+    font-size: 3rem;
+  }
+  p {
+    font-size: 1.3rem;
+    color: #fec135;
+  }
+}

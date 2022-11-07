@@ -1,0 +1,7 @@
+.middleContainer {
+  display: grid;
+  grid-template-columns: 200px 1fr 50px;
+  &.open {
+    grid-template-columns: 200px 1fr 200px;
+  }
+}
