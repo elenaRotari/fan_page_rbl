@@ -2,13 +2,26 @@
   display: grid;
   grid-template-rows: 50px 1fr;
   justify-content: center;
+  align-items: center;
   font-size: 1.5rem;
+  height: 100vh;
+  background-color: #444;
+  width: 100%;
+
+  .menuName {
+    transform: rotateZ(90deg);
+    color: #fec135;
+  }
+
   .pagelist {
     list-style-type: none;
+
+    a {
+      color: #fec135;
+      text-decoration: none;
+    }
   }
-  & > :nth-child(2) {
-    transform: rotateZ(90deg);
-  }
+
   .hidden {
     display: none;
   }

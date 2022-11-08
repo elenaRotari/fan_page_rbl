@@ -9,25 +9,22 @@ import Contact from "./components/Middle/Contact";
 import Projects from "./components/Middle/Projects";
 import { Routes, Route, useNavigate } from "react-router-dom";
 import MiddleContainer from "./components/Middle/MiddleContainer";
+import Page404 from "./components/Page404";
 
 function App() {
   const navigator = useNavigate();
   useEffect(() => {
     setTimeout(() => {
-      navigator("/page/home");
-    }, 1500);
+      navigator("/home");
+    }, 2000);
   }, []);
 
   return (
     <div className="App">
       <Routes>
         <Route path="/" element={<Loading />} />
-        <Route path="page" element={<MiddleContainer />}>
-          <Route path="home" element={<Home />} />
-          <Route path="projects" element={<Projects />} />
-          <Route path="history" element={<History />} />
-          <Route path="contacts" element={<Contact />} />
-        </Route>
+        <Route path=":page" element={<MiddleContainer />}></Route>
+        <Route path="*" element={<Page404 />} />
       </Routes>
     </div>
   );
