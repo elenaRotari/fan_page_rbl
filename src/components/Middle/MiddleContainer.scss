@@ -1,7 +1,26 @@
 .middleContainer {
   display: grid;
-  grid-template-columns: 200px 1fr 50px;
+  grid-template-columns: 300px 1fr 80px;
+  width: 75%;
+  margin: 0 auto;
+  padding-top: 2rem;
+  & > :nth-child(2) {
+    background-image: url("../Left/assets/download.jpeg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: top;
+    width: 100%;
+
+    transition: transform ease-in 1ms;
+  }
+
   &.open {
-    grid-template-columns: 200px 1fr 200px;
+    grid-template-columns: 300px 1fr 140px;
+    & > :nth-child(2) {
+      z-index: -1;
+      transform: translateX(-60px);
+      width: calc(100% + 60px);
+      transition: transform ease-in 1000ms;
+    }
   }
 }

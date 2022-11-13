@@ -7,11 +7,15 @@
   background-color: #444;
   gap: 0.7rem;
   h1 {
-    color: #fec135;
+    color: white;
     font-size: 2rem;
+  }
+  h2,
+  h3 {
+    color: red;
   }
   p {
     font-size: 1.3rem;
-    color: #fec135;
+    color: white;
   }
 }

@@ -1,5 +1,9 @@
-import React from "react";
+import "./Home.scss";
 
 export default function Home() {
-  return <div>Home</div>;
+  return (
+    <div className="homeContainer">
+      <div className="img"></div>
+    </div>
+  );
 }

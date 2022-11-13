@@ -1,0 +1,33 @@
+.about {
+  background-color: #444;
+  display: grid;
+  grid-template-rows: 250px 1fr 1fr 1fr 1fr;
+
+  .imgBlock {
+    background-color: #333;
+    width: 100%;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    p {
+      color: lightgrey;
+      text-align: center;
+      width: 60%;
+      font-size: 0.8rem;
+    }
+
+    .imgBlockLeft {
+      aspect-ratio: 1;
+      object-fit: cover;
+      justify-content: center;
+      margin-top: 1rem;
+    }
+  }
+  .budesliga {
+    display: grid;
+
+    h3 {
+      justify-items: center;
+    }
+  }
+}

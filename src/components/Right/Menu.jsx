@@ -22,13 +22,18 @@ export default function Menu({ setOpen, open, page }) {
           </Link>
         </li>
         <li>
-          <Link onClick={handleChangePage} to="/projects">
-            Projects
+          <Link onClick={handleChangePage} to="/team">
+            Team
           </Link>
         </li>
         <li>
           <Link onClick={handleChangePage} to="/history">
             History
+          </Link>
+        </li>
+        <li>
+          <Link onClick={handleChangePage} to="/onlineShop">
+            Shop
           </Link>
         </li>
         <li>

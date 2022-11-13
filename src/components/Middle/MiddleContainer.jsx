@@ -6,7 +6,8 @@ import "./MiddleContainer.scss";
 import Contact from "./Contact";
 import History from "./History";
 import Home from "./Home";
-import Projects from "./Projects";
+import OnlineShop from "./OnlineShop";
+import Team from "./Team";
 
 export default function MiddleContainer() {
   const { page } = useParams();
@@ -20,8 +21,10 @@ export default function MiddleContainer() {
         <History />
       ) : page === "contacts" ? (
         <Contact />
-      ) : page === "projects" ? (
-        <Projects />
+      ) : page === "onlineShop" ? (
+        <OnlineShop />
+      ) : page === "team" ? (
+        <Team />
       ) : (
         <Page404 />
       )}

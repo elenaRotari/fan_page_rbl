@@ -1,23 +1,27 @@
 .menu {
   display: grid;
-  grid-template-rows: 50px 1fr;
-  justify-content: center;
+  grid-template-rows: 80px 1fr;
+  justify-items: center;
   align-items: center;
   font-size: 1.5rem;
-  height: 100vh;
+  height: calc(100vh - 2rem);
   background-color: #444;
-  width: 100%;
 
   .menuName {
     transform: rotateZ(90deg);
-    color: #fec135;
+    width: 100%;
+    color: red;
   }
 
   .pagelist {
     list-style-type: none;
+    background-color: #444;
+    li {
+      text-align: center;
+    }
 
     a {
-      color: #fec135;
+      color: red;
       text-decoration: none;
     }
   }
