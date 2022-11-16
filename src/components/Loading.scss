@@ -1,10 +1,14 @@
+$primary: #de013f;
+$secondory: #444;
+$third: lightgrey;
+$forth: #333;
 .loading {
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
   height: 100vh;
-  background-color: #444;
+  background-color: $secondory;
   gap: 0.7rem;
   h1 {
     color: white;
@@ -12,7 +16,7 @@
   }
   h2,
   h3 {
-    color: red;
+    color: $primary;
   }
   p {
     font-size: 1.3rem;

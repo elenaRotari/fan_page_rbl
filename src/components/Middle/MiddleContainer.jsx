@@ -9,12 +9,12 @@ import Home from "./Home";
 import OnlineShop from "./OnlineShop";
 import Team from "./Team";
 
-export default function MiddleContainer() {
+export default function MiddleContainer({ data, setData }) {
   const { page } = useParams();
   const [open, setOpen] = useState(false);
   return (
     <div className={`middleContainer  ${open ? "open" : "close"}`}>
-      <About />
+      <About data={data} setData={setData} />
       {page === "home" ? (
         <Home />
       ) : page === "history" ? (

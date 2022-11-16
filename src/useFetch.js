@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 
 export default function useFetch(url, param = "") {
   const [data, setData] = useState({
-    data1: [],
+    data: [],
     error: "",
     isPending: true,
     filtered: [],
@@ -16,7 +16,7 @@ export default function useFetch(url, param = "") {
           (prev) =>
             (prev = {
               ...prev,
-              data1: json,
+              data: json,
               isPending: false,
               filtered: json,
             })
