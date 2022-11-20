@@ -4,13 +4,16 @@
   width: 75%;
   margin: 0 auto;
   padding-top: 2rem;
+
   & > :nth-child(2) {
     background-image: url("../Left/assets/download.jpeg");
     background-repeat: no-repeat;
-    background-size: contain;
-    background-position: top;
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: soft-light;
+    background-color: #333;
     width: 100%;
-    z-index: -1;
+    height: 350px;
     transition: transform ease-in 1ms;
   }
 

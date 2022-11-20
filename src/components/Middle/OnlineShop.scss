@@ -1,0 +1,50 @@
+$primary: #de013f;
+$secondory: #444;
+$third: lightgrey;
+$forth: #333;
+.mainShopIMG {
+  display: flex;
+  justify-content: center;
+  height: 420px;
+}
+.titleShop {
+  color: $primary;
+  text-align: center;
+  font-size: 1.5rem;
+}
+.Filter {
+  color: $third;
+  font-size: 1.2rem;
+  display: flex;
+  gap: 1rem;
+  padding: 0.6rem;
+  select {
+    font-size: 1rem;
+    padding: 0.3rem;
+    border-radius: 2px;
+    outline: none;
+    border: none;
+  }
+}
+.shopContainer {
+  overflow: scroll;
+  height: 137%;
+  &::-webkit-scrollbar {
+    display: none;
+  }
+  .shopList {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+    justify-items: center;
+
+    .cardShop {
+      color: $third;
+      list-style-type: none;
+      text-align: center;
+      h4 {
+        color: $primary;
+      }
+    }
+  }
+}

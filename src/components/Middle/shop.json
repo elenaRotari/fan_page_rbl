@@ -1,0 +1,512 @@
+{
+  "mens": [
+    {
+      "id": 1,
+      "name": "RBL Arrow Winter Jacket",
+      "images": [
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2021/RBL21001_13_M01/RBL-Arrow-Winter-Jacket.jpg",
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2021/RBL21001_13_1/RBL-Arrow-Winter-Jacket.jpg",
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2021/RBL21001_13_4/RBL-Arrow-Winter-Jacket.jpg"
+      ],
+      "category": "Jacket",
+      "price": 139.95,
+      "description": [
+        "RB Leipzig Arrow Winter Jacket for men",
+        "Material: 100% Polyester"
+      ],
+      "size": ["S", "M", "L", "XL"]
+    },
+    {
+      "id": 2,
+      "name": "RBL Arrow Padded Jacket",
+      "images": [
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2021/RBL21002_13_M01/RBL-Arrow-Padded-Jacket.jpg",
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2021/RBL21002_13_1/RBL-Arrow-Padded-Jacket.jpg",
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2021/RBL21002_13_4/RBL-Arrow-Padded-Jacket.jpg"
+      ],
+      "category": "Jacket",
+      "price": 109.95,
+      "description": [
+        "RB Leipzig Arrow Padded Winter Jacket for men",
+        "Material: 100% Polyamide"
+      ],
+      "size": ["S", "M", "L", "XL"]
+    },
+    {
+      "id": 3,
+      "name": "RBL Club Rain Jacket",
+      "images": [
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2021/RBL21018_1_M01/RBL-Club-Rain-Jacket.jpg",
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2021/RBL21018_1_1/RBL-Club-Rain-Jacket.jpg",
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2021/RBL21018_1_4/RBL-Club-Rain-Jacket.jpg"
+      ],
+      "category": "Jacket",
+      "price": "74.95",
+      "description": ["RB Leipzig Club Rain Jacket ", "Material: 100% Nylon"],
+      "size": ["S", "M", "L", "XL"]
+    },
+    {
+      "id": 4,
+      "name": "RBL Strive Winter Jacket",
+      "images": [
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2020/RBL20001_2C_M01/RBL-Strive-Winter-Jacket.jpg",
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2020/RBL20001_2C_1/RBL-Strive-Winter-Jacket.jpg",
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail-zoom/products/RBL/2020/RBL20001_2C_4/RBL-Strive-Winter-Jacket.jpg"
+      ],
+      "category": "Jacket",
+      "price": 59.95,
+      "description": [
+        "RB Leipzig Strive Winter Jacket for men",
+        "Hood with chin guard for extra protection against the elements"
+      ],
+      "size": ["S", "M", "L", "XL"]
+    },
+    {
+      "id": 5,
+      "name": "RBL Nike Home Jersey 22/23",
+      "images": [
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2022/RBL22001_5_1/RBL-Nike-Home-Jersey-22-23.jpg",
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2022/RBL22001_5_4/RBL-Nike-Home-Jersey-22-23.jpg",
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2022/RBL22001_5_2/RBL-Nike-Home-Jersey-22-23.jpg"
+      ],
+      "category": "Jersey",
+      "price": 89.95,
+      "description": [
+        "RB Leipzig Nike Home Jersey 22/23 for men",
+        "Created with Nike’s Dri-FIT technology to keep you fresh",
+        "Material: Dri-FIT 100% Polyester"
+      ],
+      "size": ["S", "M", "L", "XL"]
+    },
+    {
+      "id": 6,
+      "name": "RBLZ Gaming Jersey",
+      "images": [
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2022/RBL22159_9E_1/RBLZ-Gaming-Jersey.jpg",
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2022/RBL22159_9E_3/RBLZ-Gaming-Jersey.jpg",
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2022/RBL22159_9E_4/RBLZ-Gaming-Jersey.jpg"
+      ],
+      "category": "Jersey",
+      "price": 59.95,
+      "description": [
+        "RBLZ Gaming Jersey 22/23 for men",
+        "Available on FIFA 23",
+        "Material: 100% Polyester"
+      ],
+      "size": ["S", "M", "L", "XL"]
+    },
+    {
+      "id": 7,
+      "name": "RBL Nike Home Shorts 22/23",
+      "images": [
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2022/RBL22002_3C_1/RBL-Nike-Home-Shorts-22-23.jpg",
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2022/RBL22002_3C_4/RBL-Nike-Home-Shorts-22-23.jpg"
+      ],
+      "category": "Shorts && Pants",
+      "price": 39.95,
+      "description": [
+        "RB Leipzig Nike Home Shorts 22/23 for men",
+        "Created with Nike’s Dri-FIT technology to keep you fresh",
+        "Material: Dri-FIT 100% Polyester"
+      ],
+      "size": ["S", "M", "L", "XL"]
+    },
+    {
+      "id": 8,
+      "name": "RBL Wave Boardshort",
+      "images": [
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2022/RBL22045_13_1/RBL-Wave-Boardshort.jpg",
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2022/RBL22045_13_4/RBL-Wave-Boardshort.jpg"
+      ],
+      "category": "Shorts && Pants",
+      "price": 39.95,
+      "description": [
+        "RB Leipzig Wave Boardshorts for men",
+        "Features two pockets",
+        "Features two pockets"
+      ],
+      "size": ["S", "M", "L", "XL"]
+    },
+    {
+      "id": 9,
+      "name": "RBL Christmas Sweater",
+      "images": [
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2022/RBL22135_5_M01/RBL-Christmas-Sweater.jpg",
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2022/RBL22135_5_1/RBL-Christmas-Sweater.jpg",
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2022/RBL22135_5_M02/RBL-Christmas-Sweater.jpg"
+      ],
+      "category": "Sweater",
+      "price": 49.95,
+      "description": ["RB Leipzig Christmas Sweater", "Material: 100% Acrylic"],
+      "size": ["S", "M", "L", "XL"]
+    },
+    {
+      "id": 10,
+      "name": "RBL Signature Hoodie",
+      "images": [
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2022/RBL22048_3_M01/RBL-Signature-Hoodie.jpg",
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2022/RBL22048_3_1/RBL-Signature-Hoodie.jpg",
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2022/RBL22048_3_4/RBL-Signature-Hoodie.jpg"
+      ],
+      "category": "Hoodie",
+      "price": 54.95,
+      "description": ["RB Leipzig Signature Hoodie", "Material: 100% Cotton"],
+      "size": ["S", "M", "L", "XL"]
+    },
+    {
+      "id": 11,
+      "name": "RBL Christmas Sweater",
+      "images": [
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2021/RBL20241_4C_1/RBL-Christmas-Sweater.jpg",
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2021/RBL20241_4C_4/RBL-Christmas-Sweater.jpg"
+      ],
+      "category": "Sweater",
+      "price": 49.95,
+      "description": ["RB Leipzig Christmas Sweater", "100% Acrylic"],
+      "size": ["S", "M", "L", "XL"]
+    },
+    {
+      "id": 12,
+      "name": "RBL Club Hoodie Grey",
+      "images": [
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2021/RBL21020_2F_M01/RBL-Club-Hoodie-Grey.jpg",
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2021/RBL21020_2F_1/RBL-Club-Hoodie-Grey.jpg",
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2021/RBL21020_2F_4/RBL-Club-Hoodie-Grey.jpg"
+      ],
+      "category": "Hoodie",
+      "price": 49.95,
+      "description": [
+        "RB Leipzig Club Hoodie",
+        "Material: 60% Cotton, 40% Polyester "
+      ],
+      "size": ["S", "M", "L", "XL"]
+    },
+    {
+      "id": 13,
+      "name": "RBL Signature Polo Shirt",
+      "images": [
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2022/RBL22051_9_1/RBL-Signature-Polo-Shirt.jpg",
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2022/RBL22051_9_4/RBL-Signature-Polo-Shirt.jpg",
+        ""
+      ],
+      "category": "T-Shirt",
+      "price": 34.95,
+      "description": [
+        "RB Leipzig Signature Polo Shirt",
+        "Material: 100% Cotton"
+      ],
+      "size": ["S", "M", "L", "XL"]
+    },
+    {
+      "id": 14,
+      "name": "RBL Club T-Shirt",
+      "images": [
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2021/RBL21022_3_M01/RBL-Club-T-Shirt.jpg",
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2021/RBL21022_3_1/RBL-Club-T-Shirt.jpg",
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2021/RBL21022_3_4/RBL-Club-T-Shirt.jpg"
+      ],
+      "category": "T-Shirt",
+      "price": 19.95,
+      "description": ["RB Leipzig Club T-Shirt", "Material: 100 % Baumwolle"],
+      "size": ["S", "M", "L", "XL"]
+    },
+    {
+      "id": 15,
+      "name": "RBL Nike Warm Up T-Shirt ",
+      "images": [
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2021/RBL21169_9C_M01/RBL-Nike-Warm-Up-T-Shirt-21-22.jpg",
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2021/RBL21169_9C_1/RBL-Nike-Warm-Up-T-Shirt-21-22.jpg",
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2021/RBL21169_9C_4/RBL-Nike-Warm-Up-T-Shirt-21-22.jpg"
+      ],
+      "category": "T-Shirt",
+      "price": 32.95,
+      "description": [
+        "RB Leipzig Nike Warm Up T-Shirt 21/22 for men",
+        "Soft, sweat-wicking Dri-FIT technology to keep you fresh and comfortable"
+      ],
+      "size": ["S", "M", "L", "XL"]
+    }
+  ],
+  "women": [
+    {
+      "id": 16,
+      "name": "RBL Arrow Winter Jacket",
+      "images": [
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2021/RBL21008_13_M01/RBL-Arrow-Winter-Jacket.jpg",
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2021/RBL21008_13_1/RBL-Arrow-Winter-Jacket.jpg",
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2021/RBL21008_13_4/RBL-Arrow-Winter-Jacket.jpg"
+      ],
+      "category": "Jacket",
+      "price": 85.95,
+      "description": [
+        "RB Leipzig Arrow Winter Jacket for women",
+        "Material: 100% Polyester"
+      ],
+      "size": ["S", "M", "L", "XL"]
+    },
+    {
+      "id": 17,
+      "name": "RBL Strive Winter Jacket",
+      "images": [
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2020/RBL20009_2C_M01/RBL-Strive-Winter-Jacket.jpg",
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2020/RBL20009_2C_1/RBL-Strive-Winter-Jacket.jpg",
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2020/RBL20009_2C_4/RBL-Strive-Winter-Jacket.jpg"
+      ],
+      "category": "Jacket",
+      "price": 59.95,
+      "description": [
+        "RB Leipzig Strive Winter Jacket for women",
+        "Hood with chin guard for extra protection against the elements"
+      ],
+      "size": ["S", "M", "L", "XL"]
+    },
+    {
+      "id": 18,
+      "name": "RBL Nike Home Jersey 22/23",
+      "images": [
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2022/RBL22044_5_1/RBL-Nike-Home-Jersey-22-23.jpg",
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2022/RBL22044_5_4/RBL-Nike-Home-Jersey-22-23.jpg"
+      ],
+      "category": "Jersey",
+      "price": 89.95,
+      "description": [
+        "RB Leipzig Nike Home Jersey 22/23 for women",
+        "Material: Dri-FIT 100% Polyester"
+      ],
+      "size": ["S", "M", "L", "XL"]
+    },
+    {
+      "id": 19,
+      "name": "RBL CL T-Shirt",
+      "images": [
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2022/RBL22244_9_1/RBL-CL-T-Shirt.jpg"
+      ],
+      "category": "T-Shirt",
+      "price": 24.95,
+      "description": [
+        "RB Leipzig Champions League T-Shirt for women",
+        "Material: 100% Cotton"
+      ],
+      "size": ["S", "M", "L", "XL"]
+    },
+    {
+      "id": 20,
+      "name": "RBL Arrow Polo Shirt",
+      "images": [
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2021/RBL21011_2H_M01/RBL-Arrow-Polo-Shirt.jpg",
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2021/RBL21011_2H_1/RBL-Arrow-Polo-Shirt.jpg",
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2021/RBL21011_2H_4/RBL-Arrow-Polo-Shirt.jpg"
+      ],
+      "category": "T-Shirt",
+      "price": 23.95,
+      "description": [
+        "RB Leipzig Arrow Polo Shirt for women",
+        "Material: 57% Cotton; 38% Polyester; 5% Elastane"
+      ],
+      "size": ["S", "M", "L", "XL"]
+    },
+    {
+      "id": 21,
+      "name": "RBL Club Hoodie Navy",
+      "images": [
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2021/RBL21021_13_1/RBL-Club-Hoodie-Navy.jpg",
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2021/RBL21021_13_4/RBL-Club-Hoodie-Navy.jpg"
+      ],
+      "category": "Hoodie",
+      "price": 49.95,
+      "description": ["RB Leipzig Club Hoodie", "Material: 100% Cotton"],
+      "size": ["S", "M", "L", "XL"]
+    }
+  ],
+  "accessories": [
+    {
+      "id": 22,
+      "name": "RBL CL Cap",
+      "images": [
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2022/RBL22246_2_1/RBL-CL-Cap.jpg",
+        ""
+      ],
+      "category": "Cap",
+      "price": 29.95,
+      "description": [
+        "RB Leipzig Champions League Cap",
+        "Material: 100% Cotton"
+      ],
+      "size": ["", ""]
+    },
+    {
+      "id": 23,
+      "name": "RBL Christmas Socks",
+      "images": [
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2022/RBL22138_1J_1/RBL-Christmas-Socks.jpg",
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2022/RBL22138_1J_4/RBL-Christmas-Socks.jpg"
+      ],
+      "category": "Sock",
+      "price": 9.95,
+      "description": [
+        "RB Leipzig Christmas Socks",
+        "Material: 75% Cotton; 23% Polyamide; 2% Elastane"
+      ],
+      "size": ["35-38", "43-46"]
+    },
+    {
+      "id": 24,
+      "name": "RBL Christmas Scarf",
+      "images": [
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2022/RBL22136_5_1/RBL-Christmas-Scarf.jpg",
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2022/RBL22136_5_1/RBL-Christmas-Scarf.jpg"
+      ],
+      "category": "Scarf",
+      "price": 14.95,
+      "description": ["RB Leipzig Christmas Scarf", "Material: 100% Acrylic"],
+      "size": ["", ""]
+    },
+    {
+      "id": 25,
+      "name": "RBL New Era Stripe Bobble Hat",
+      "images": [
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2022/RBL22079_4C_1/RBL-New-Era-Stripe-Bobble-Hat.jpg",
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2022/RBL22079_4C_4/RBL-New-Era-Stripe-Bobble-Hat.jpg"
+      ],
+      "category": "Cap",
+      "price": 29.95,
+      "description": [
+        "RB Leipzig New Era Stripe Bobble Hat",
+        "Material: 100% Acrylic"
+      ],
+      "size": []
+    },
+    {
+      "id": 26,
+      "name": "RBL Ultimate Football",
+      "images": [
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2022/RBL22068_9C_1/RBL-Ultimate-Football.jpg",
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2022/RBL22068_9C_1/RBL-Ultimate-Football.jpg"
+      ],
+      "category": "Accessories",
+      "price": 24.95,
+      "description": ["RB Leipzig Ultimate Football", "Material: 100% TPU "],
+      "size": []
+    },
+    {
+      "id": 27,
+      "name": "RBL Floodlight Mug",
+      "images": [
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2022/RBL22087_5_1/RBL-Floodlight-Mug.jpg",
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2022/RBL22087_5_4/RBL-Floodlight-Mug.jpg"
+      ],
+      "category": "Mug",
+      "price": 12.95,
+      "description": ["RB Leipzig Floodlight Mug", "Material: 100% Ceramic"],
+      "size": []
+    },
+    {
+      "id": 28,
+      "name": "RBL New Era Signature Beanie",
+      "images": [
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2022/RBL22056_13_1/RBL-New-Era-Signature-Beanie.jpg",
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2022/RBL22056_13_4/RBL-New-Era-Signature-Beanie.jpg"
+      ],
+      "category": "Cap",
+      "price": 24.95,
+      "description": [
+        "RB Leipzig New Era Signature Beanie",
+        "Material: 100% Acrylic"
+      ],
+      "size": []
+    },
+    {
+      "id": 29,
+      "name": "RBL Nike Backpack 22/23",
+      "images": [
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2022/RBL22043_9A_1/RBL-Nike-Backpack-22-23.jpg",
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2022/RBL22043_9A_4/RBL-Nike-Backpack-22-23.jpg"
+      ],
+      "category": "Bag",
+      "price": 39.95,
+      "description": [
+        "RB Leipzig Nike Backpack 22/23",
+        "Material: 100% Polyester"
+      ],
+      "size": []
+    },
+    {
+      "id": 30,
+      "name": "RBL Cup Winner Scarf 21/22",
+      "images": [
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2022/RBL22161_4_1/RBL-Cup-Winner-Scarf-21-22.jpg",
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2022/RBL22161_4_2/RBL-Cup-Winner-Scarf-21-22.jpg"
+      ],
+      "category": "Scarf",
+      "price": 15.0,
+      "description": [
+        "RB Leipzig Cup Winner Scarf 22 ",
+        "Material: 100% Polyester"
+      ],
+      "size": ["", ""]
+    },
+    {
+      "id": 31,
+      "name": "RBL Chistmas Bobble Hat",
+      "images": [
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2021/RBL20243_4C_1/RBL-Chistmas-Bobble-Hat.jpg",
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2021/RBL20243_4C_4/RBL-Chistmas-Bobble-Hat.jpg"
+      ],
+      "category": "Cap",
+      "price": 24.95,
+      "description": ["RB Leipzig Christmas Beanie", "100% Acrylic"],
+      "size": ["", ""]
+    },
+    {
+      "id": 32,
+      "name": "RBL Nike Away Socks 22/23",
+      "images": [
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2022/RBL22006_4_1/RBL-Nike-Away-Socks-22-23.jpg",
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2022/RBL22006_4_4/RBL-Nike-Away-Socks-22-23.jpg"
+      ],
+      "category": "Sock",
+      "price": 17.95,
+      "description": [
+        "RB Leipzig Nike Away Socks 22/23",
+        "Material: Dri-FIT 100% Polyester"
+      ],
+      "size": ["XS", "S", "M", "L", "XL"]
+    },
+    {
+      "id": 33,
+      "name": "RBL Club Beer Glass",
+      "images": [
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2021/RBL21138_5_1/RBL-Club-Beer-Glass.jpg",
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2021/RBL21138_5_4/RBL-Club-Beer-Glass.jpg"
+      ],
+      "category": "Accessories",
+      "price": 12.95,
+      "description": ["RB Leipzig Club Beer Glass", "Material: 100% glass"],
+      "size": ["", ""]
+    },
+    {
+      "id": 34,
+      "name": "RBL Club Keyring",
+      "images": [
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2022/RBL22090_5_1/RBL-Club-Keyring.jpg",
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2022/RBL22090_5_1/RBL-Club-Keyring.jpg"
+      ],
+      "category": "Accessories",
+      "price": 7.95,
+      "description": ["RB Leipzig Club Keyring", "Material: 100% Metal"],
+      "size": ["", ""]
+    },
+    {
+      "id": 35,
+      "name": "RBL Logo Cushion",
+      "images": [
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2022/RBL22113_13_1/RBL-Logo-Cushion.jpg",
+        "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-detail/products/RBL/2022/RBL22113_13_1/RBL-Logo-Cushion.jpg"
+      ],
+      "category": "Accessories",
+      "price": 14.95,
+      "description": ["RB Leipzig Logo Cushion", "Material: 100% Polyester"],
+      "size": ["", ""]
+    }
+  ]
+}

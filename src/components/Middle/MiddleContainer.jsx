@@ -8,6 +8,7 @@ import History from "./History";
 import Home from "./Home";
 import OnlineShop from "./OnlineShop";
 import Team from "./Team";
+import ShowDetails from "./ShowDetails";
 
 export default function MiddleContainer({ data, setData }) {
   const { page } = useParams();
@@ -21,10 +22,12 @@ export default function MiddleContainer({ data, setData }) {
         <History />
       ) : page === "contacts" ? (
         <Contact />
-      ) : page === "onlineShop" ? (
+      ) : page === "shop" ? (
         <OnlineShop />
       ) : page === "team" ? (
         <Team />
+      ) : page === "/details" ? (
+        <ShowDetails />
       ) : (
         <Page404 />
       )}

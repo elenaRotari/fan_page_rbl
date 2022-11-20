@@ -32,7 +32,7 @@ export default function Menu({ setOpen, open, page }) {
           </Link>
         </li>
         <li>
-          <Link onClick={handleChangePage} to="/onlineShop">
+          <Link onClick={handleChangePage} to="/shop">
             Shop
           </Link>
         </li>
