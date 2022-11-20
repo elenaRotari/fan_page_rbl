@@ -48,7 +48,6 @@ export default function OnlineShop() {
             </option>
           ))}
         </select>
-        <select placeholder="Category"></select>
       </div>
       <div className="shopContainer">
         <ul className="shopList">
