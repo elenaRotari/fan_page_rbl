@@ -4,7 +4,6 @@ import Loading from "./components/Loading";
 import { Routes, Route, useNavigate } from "react-router-dom";
 import MiddleContainer from "./components/Middle/MiddleContainer";
 import Page404 from "./components/Page404";
-import useFetch from "../src/useFetch";
 
 function App() {
   const navigator = useNavigate();

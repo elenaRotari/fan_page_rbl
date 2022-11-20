@@ -5,7 +5,7 @@ $forth: #333;
 .about {
   background-color: $secondory;
   display: grid;
-  grid-template-rows: 250px 1fr 1fr 1fr 1fr;
+  grid-template-rows: 250px 1fr 1fr 1fr 50px;
   justify-items: center;
   -webkit-scrollbar {
     width: 2px;
@@ -31,17 +31,19 @@ $forth: #333;
       margin-top: 1rem;
     }
   }
+
   .bundesliga,
   .dfb,
   .legue {
     border-bottom: 1px solid lightgrey;
-
     width: 100%;
     padding: 0.5rem;
+
     h3 {
       color: $primary;
       text-align: center;
       font-size: 1.2rem;
+      padding: 1rem;
     }
     .styledName {
       display: flex;
@@ -64,6 +66,34 @@ $forth: #333;
       & > :last-child {
         text-align: center;
       }
+    }
+  }
+  .dfb {
+    h4 {
+      text-align: center;
+      color: $third;
+      text-decoration: underline;
+      padding: 0.5rem;
+    }
+    .lastGame {
+      display: grid;
+      grid-template-columns: 1fr 20px;
+      color: white;
+      align-items: center;
+    }
+    img {
+      width: 20px;
+    }
+  }
+  .iconsRbl {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: space-around;
+    padding: 0.5rem;
+    a {
+      font-size: 1.4rem;
+      color: $third;
     }
   }
 }

@@ -10,7 +10,7 @@
     background-size: contain;
     background-position: top;
     width: 100%;
-
+    z-index: -1;
     transition: transform ease-in 1ms;
   }
 
